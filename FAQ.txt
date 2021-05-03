@@ -1,0 +1,16 @@
+FAQ
+Q: What mitochondria genes and proteins are within this database?
+
+A: This database is filled with protein coding genes and their proteins. Specifically, in the database is MT-CYB (4519), MT-ND1 (4535), MT-ND2 (4536), MT-ND3 (4537), MT-ND4 (4538), MT-ND4L (4539), MT-ND5 (4540), MT-ND6 (4541), MT-CO1 (4512), MT-CO2 (4513), MT-CO3(4514), MT-ATP6 (4508), and MT-ATP8 (4509).
+
+Q: How do I search this database?
+
+A: Enter a Gene ID like one from the previous answer, say 4519 into the search bar on the home page.
+
+Q: If I find a bug, how do I report it or have accessibility concerns?
+
+A: Click on the submit bugs and errors here button to be lead to a google form to fill it out. Your error will most likely be fixed.
+
+Q: Where did you obtain your data?
+
+A: Where all of the data was obtained is in the citation page of the website and in the Final Report Paper.
